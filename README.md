@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @monohin
+- 👋 Hi, I’m Manohar
 - 👀 I’m interested in devops/automation
 - 🌱 I’m currently learning devops 
 - 💞️ I’m looking to collaborate on devops/automation community
