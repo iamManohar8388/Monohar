@@ -5,3 +5,4 @@ Import a key file from Jenkins-CI to enable installation from the package:
 Install Java:
 
 [ec2-user ~]$ sudo amazon-linux-extras install java-openjdk11 -y
+
