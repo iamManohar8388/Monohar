@@ -5,6 +5,6 @@
 - 📫 How to reach me --> www.linkedin.com/in/manohar2306
 
 <!---
-Maonohar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Maonohar/Manohar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
